@@ -31,9 +31,7 @@ const doorAmbientOcclusionTexture = textureLoader.load(
 const doorHeightTexture = textureLoader.load('/textures/door/height.jpg');
 const doorNormalTexture = textureLoader.load('/textures/door/normal.jpg');
 const doorMetalnessTexture = textureLoader.load('/textures/door/metalness.jpg');
-const doorRoughnessTexture = textureLoader.load(
-  'static/textures/door/roughness.jpg'
-);
+const doorRoughnessTexture = textureLoader.load('/textures/door/roughness.jpg');
 
 const bricksColorTexture = textureLoader.load('/textures/bricks/color.jpg');
 const bricksAmbientOcclusionTexture = textureLoader.load(
